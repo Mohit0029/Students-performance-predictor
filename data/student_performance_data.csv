@@ -1,0 +1,502 @@
+﻿StudentID,FirstName,LastName,Gender,Age,City,State,Board,ParentalEducation,ParentalOccupation,FamilyIncomeINR,Medium,HasTuition,StudyHoursPerDay,PreviousYearPercentage,AttendancePercentage,MathScore,ScienceScore,EnglishScore,FinalScore
+SID1001,Aarav,Sharma,Male,17,Mumbai,Maharashtra,CBSE,Graduate,Engineer,1200000,English,Yes,4.5,85,92,88,90,85,87.67
+SID1002,Vivaan,Verma,Male,16,Delhi,Delhi,ICSE,Postgraduate,Doctor,2500000,English,Yes,6,92,95,95,94,91,93.33
+SID1003,Aditya,Singh,Male,18,Bangalore,Karnataka,State Board,High School,Business,800000,English,No,3,75,88,72,78,75,75
+SID1004,Vihaan,Gupta,Male,17,Hyderabad,Telangana,CBSE,Doctorate,Professor,3000000,English,Yes,5.5,90,96,91,92,89,90.67
+SID1005,Arjun,Kumar,Male,16,Chennai,Tamil Nadu,CBSE,Graduate,IT Professional,1500000,English,Yes,5,88,94,89,91,86,88.67
+SID1006,Sai,Patel,Male,18,Kolkata,West Bengal,ICSE,Postgraduate,Lawyer,2000000,English,No,4,82,90,80,85,82,82.33
+SID1007,Reyansh,Mishra,Male,17,Pune,Maharashtra,State Board,Graduate,Architect,1800000,English,Yes,4.8,86,93,87,88,84,86.33
+SID1008,Krishna,Yadav,Male,16,Ahmedabad,Gujarat,CBSE,High School,Government Job,900000,English,No,3.5,78,89,75,80,77,77.33
+SID1009,Ishaan,Jain,Male,17,Jaipur,Rajasthan,CBSE,Graduate,Banker,1300000,English,Yes,4.2,84,91,83,86,81,83.33
+SID1010,Shaurya,Das,Male,18,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Scientist,2200000,English,Yes,5.2,89,95,90,91,88,89.67
+SID1011,Aanya,Sharma,Female,17,Mumbai,Maharashtra,CBSE,Graduate,Engineer,1200000,English,Yes,4.7,87,93,89,90,86,88.33
+SID1012,Myra,Verma,Female,16,Delhi,Delhi,ICSE,Postgraduate,Doctor,2500000,English,Yes,5.8,91,96,94,93,90,92.33
+SID1013,Saanvi,Singh,Female,18,Bangalore,Karnataka,State Board,High School,Business,800000,Regional,No,2.5,72,85,68,75,70,71
+SID1014,Anika,Gupta,Female,17,Hyderabad,Telangana,CBSE,Doctorate,Professor,3000000,English,Yes,5.3,90,95,90,91,88,89.67
+SID1015,Aarohi,Kumar,Female,16,Chennai,Tamil Nadu,CBSE,Graduate,IT Professional,1500000,English,Yes,5.1,89,94,90,92,87,89.67
+SID1016,Navya,Patel,Female,18,Kolkata,West Bengal,ICSE,Postgraduate,Lawyer,2000000,English,No,4.2,84,91,82,86,83,83.67
+SID1017,Diya,Mishra,Female,17,Pune,Maharashtra,State Board,Graduate,Architect,1800000,English,Yes,5,88,94,88,89,85,87.33
+SID1018,Pari,Yadav,Female,16,Ahmedabad,Gujarat,CBSE,High School,Government Job,900000,Hindi,No,3.7,80,90,78,82,79,79.67
+SID1019,Riya,Jain,Female,17,Jaipur,Rajasthan,CBSE,Graduate,Banker,1300000,English,Yes,4.5,86,92,85,87,83,85
+SID1020,Ishita,Das,Female,18,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Scientist,2200000,English,Yes,5.5,92,96,93,94,91,92.67
+SID1021,Kabir,Chopra,Male,17,Chandigarh,Punjab,CBSE,Graduate,Businessman,1600000,English,Yes,4,80,90,78,81,79,79.33
+SID1022,Zoya,Khan,Female,16,Bhopal,Madhya Pradesh,State Board,Graduate,Teacher,700000,Hindi,No,3.2,76,88,72,78,74,74.67
+SID1023,Advik,Mehta,Male,18,Surat,Gujarat,CBSE,Postgraduate,Manager,1900000,English,Yes,5,88,94,86,90,85,87
+SID1024,Anaya,Malhotra,Female,17,Nagpur,Maharashtra,State Board,High School,Homemaker,500000,Regional,No,2.8,70,85,65,72,68,68.33
+SID1025,Aryan,Reddy,Male,16,Visakhapatnam,Andhra Pradesh,State Board,Graduate,Farmer,600000,Regional,Yes,3.5,78,89,75,79,76,76.67
+SID1026,Kiara,Bansal,Female,17,Indore,Madhya Pradesh,CBSE,Graduate,Accountant,1000000,English,Yes,4.3,85,92,84,86,83,84.33
+SID1027,Veer,Nair,Male,18,Kochi,Kerala,ICSE,Postgraduate,Software Engineer,2300000,English,Yes,5.1,89,95,88,91,87,88.67
+SID1028,Zara,Rao,Female,16,Coimbatore,Tamil Nadu,CBSE,Doctorate,Doctor,3500000,English,Yes,6.2,94,97,96,95,94,95
+SID1029,Dhruv,Joshi,Male,17,Dehradun,Uttarakhand,ICSE,Graduate,Army Officer,1400000,English,No,3.8,81,90,79,83,80,80.67
+SID1030,Eva,Pillai,Female,18,Thiruvananthapuram,Kerala,State Board,Postgraduate,Professor,2100000,English,Yes,4.9,87,93,86,88,85,86.33
+SID1031,Arnav,Saxena,Male,16,Agra,Uttar Pradesh,CBSE,High School,Shopkeeper,400000,Hindi,No,2.5,68,82,62,69,65,65.33
+SID1032,Aisha,Iyer,Female,17,Madurai,Tamil Nadu,State Board,Graduate,Clerk,750000,Regional,Yes,3.9,82,91,80,83,81,81.33
+SID1033,Ryan,Goel,Male,18,Ludhiana,Punjab,ICSE,Postgraduate,Industrialist,2800000,English,Yes,4.5,85,92,84,87,83,84.67
+SID1034,Ira,Choudhary,Female,16,Patna,Bihar,State Board,High School,Farmer,300000,Hindi,No,2.2,65,80,60,65,62,62.33
+SID1035,Yuvan,Biswas,Male,17,Guwahati,Assam,CBSE,Graduate,Journalist,1100000,English,Yes,4.1,83,91,81,84,80,81.67
+SID1036,Aarav,Patil,Male,16,Mumbai,Maharashtra,State Board,Graduate,Police Officer,950000,Regional,No,3.3,77,88,74,79,76,76.33
+SID1037,Vivaan,Jha,Male,18,Delhi,Delhi,CBSE,Postgraduate,Consultant,2600000,English,Yes,5.7,91,96,92,93,90,91.67
+SID1038,Aditya,Dubey,Male,17,Bangalore,Karnataka,ICSE,Doctorate,Researcher,3200000,English,Yes,6.1,93,97,94,95,92,93.67
+SID1039,Vihaan,Trivedi,Male,16,Hyderabad,Telangana,CBSE,Graduate,Marketing Head,1700000,English,Yes,4.8,87,93,86,89,85,86.67
+SID1040,Arjun,Pandey,Male,18,Chennai,Tamil Nadu,State Board,High School,Driver,450000,Regional,No,2.7,69,84,65,71,67,67.67
+SID1041,Sai,Varma,Male,17,Kolkata,West Bengal,ICSE,Postgraduate,Artist,1900000,English,Yes,4.4,84,92,83,86,82,83.67
+SID1042,Reyansh,Prajapati,Male,16,Pune,Maharashtra,CBSE,Graduate,Civil Servant,1800000,English,No,5.2,89,95,88,90,87,88.33
+SID1043,Krishna,Saini,Male,17,Ahmedabad,Gujarat,State Board,Graduate,Pharmacist,1000000,English,Yes,4,82,90,80,84,79,81
+SID1044,Ishaan,Khatri,Male,18,Jaipur,Rajasthan,CBSE,High School,Electrician,550000,Hindi,No,3.1,74,87,70,76,72,72.67
+SID1045,Shaurya,Rathore,Male,17,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Judge,4000000,English,Yes,6.5,95,98,96,97,95,96
+SID1046,Aanya,Patil,Female,16,Mumbai,Maharashtra,State Board,Graduate,Police Officer,950000,Regional,No,3.5,79,89,76,81,78,78.33
+SID1047,Myra,Jha,Female,18,Delhi,Delhi,CBSE,Postgraduate,Consultant,2600000,English,Yes,5.9,92,97,93,94,91,92.67
+SID1048,Saanvi,Dubey,Female,17,Bangalore,Karnataka,ICSE,Doctorate,Researcher,3200000,English,Yes,6.3,94,98,95,96,93,94.67
+SID1049,Anika,Trivedi,Female,16,Hyderabad,Telangana,CBSE,Graduate,Marketing Head,1700000,English,Yes,5,88,94,87,90,86,87.67
+SID1050,Aarohi,Pandey,Female,18,Chennai,Tamil Nadu,State Board,High School,Driver,450000,Regional,No,2.9,71,85,67,73,69,69.67
+SID1051,Navya,Varma,Female,17,Kolkata,West Bengal,ICSE,Postgraduate,Artist,1900000,English,Yes,4.6,86,93,85,88,84,85.67
+SID1052,Diya,Prajapati,Female,16,Pune,Maharashtra,CBSE,Graduate,Civil Servant,1800000,English,No,5.4,90,96,89,91,88,89.33
+SID1053,Pari,Saini,Female,17,Ahmedabad,Gujarat,State Board,Graduate,Pharmacist,1000000,English,Yes,4.2,84,91,82,85,81,82.67
+SID1054,Riya,Khatri,Female,18,Jaipur,Rajasthan,CBSE,High School,Electrician,550000,Hindi,No,3.3,76,88,72,78,74,74.67
+SID1055,Ishita,Rathore,Female,17,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Judge,4000000,English,Yes,6.7,96,99,97,98,96,97
+SID1056,Kabir,Kapoor,Male,16,Chandigarh,Punjab,CBSE,Doctorate,Surgeon,4500000,English,Yes,6.8,97,99,98,97,96,97
+SID1057,Zoya,Ali,Female,18,Bhopal,Madhya Pradesh,State Board,Graduate,Designer,1100000,English,Yes,4.3,83,91,81,84,80,81.67
+SID1058,Advik,Shetty,Male,17,Surat,Gujarat,CBSE,Postgraduate,Entrepreneur,3500000,English,Yes,5.5,90,95,90,92,88,90
+SID1059,Anaya,Desai,Female,16,Nagpur,Maharashtra,State Board,High School,Tailor,350000,Regional,No,2.4,67,81,63,68,64,65
+SID1060,Aryan,Naidu,Male,18,Visakhapatnam,Andhra Pradesh,State Board,Graduate,Fisherman,500000,Regional,No,3,72,86,68,74,70,70.67
+SID1061,Kiara,Agarwal,Female,17,Indore,Madhya Pradesh,CBSE,Graduate,CA,1400000,English,Yes,4.8,87,93,86,89,85,86.67
+SID1062,Veer,Menon,Male,16,Kochi,Kerala,ICSE,Postgraduate,Scientist,2400000,English,Yes,5.6,91,96,92,93,90,91.67
+SID1063,Zara,Pawar,Female,17,Coimbatore,Tamil Nadu,CBSE,High School,Factory Worker,400000,Regional,No,2.6,69,83,64,70,66,66.67
+SID1064,Dhruv,Rawat,Male,18,Dehradun,Uttarakhand,ICSE,Graduate,Hotel Manager,1200000,English,No,3.7,80,89,78,82,79,79.67
+SID1065,Eva,Iqbal,Female,16,Thiruvananthapuram,Kerala,State Board,Postgraduate,Writer,1500000,English,Yes,4.7,86,92,85,87,83,85
+SID1066,Arnav,Tomar,Male,17,Agra,Uttar Pradesh,CBSE,High School,Tourist Guide,600000,Hindi,Yes,3.4,75,88,71,77,73,73.67
+SID1067,Aisha,Kulkarni,Female,18,Madurai,Tamil Nadu,State Board,Graduate,Bank Teller,800000,Regional,No,3.6,79,90,77,80,78,78.33
+SID1068,Ryan,Bhatia,Male,17,Ludhiana,Punjab,ICSE,Postgraduate,Exporter,3000000,English,Yes,5.3,89,95,88,91,87,88.67
+SID1069,Ira,Thakur,Female,16,Patna,Bihar,State Board,High School,Labourer,250000,Hindi,No,2,62,78,58,63,60,60.33
+SID1070,Yuvan,Baruah,Male,18,Guwahati,Assam,CBSE,Graduate,Tea Planter,1300000,English,Yes,4.2,84,91,82,85,81,82.67
+SID1071,Aarav,Deshpande,Male,17,Mumbai,Maharashtra,CBSE,Graduate,Actor,2000000,English,Yes,4.6,86,92,85,87,83,85
+SID1072,Vivaan,Garg,Male,16,Delhi,Delhi,ICSE,Postgraduate,Stock Broker,3200000,English,Yes,5.4,90,95,91,92,89,90.67
+SID1073,Aditya,Shinde,Male,18,Bangalore,Karnataka,State Board,High School,Mechanic,650000,Regional,No,3.1,73,86,70,75,71,72
+SID1074,Vihaan,Chauhan,Male,17,Hyderabad,Telangana,CBSE,Doctorate,Veterinarian,2800000,English,Yes,5.8,92,96,93,94,91,92.67
+SID1075,Arjun,Goswami,Male,16,Chennai,Tamil Nadu,CBSE,Graduate,Musician,1400000,English,No,4.1,83,90,81,84,80,81.67
+SID1076,Sai,Sarkar,Male,18,Kolkata,West Bengal,ICSE,Postgraduate,Filmmaker,2700000,English,Yes,5.3,89,94,88,90,87,88.33
+SID1077,Reyansh,Kadam,Male,17,Pune,Maharashtra,State Board,Graduate,Photographer,1100000,English,Yes,4.7,85,91,84,86,82,84
+SID1078,Krishna,Maurya,Male,16,Ahmedabad,Gujarat,CBSE,High School,Carpenter,400000,Hindi,No,2.8,70,84,66,72,68,68.67
+SID1079,Ishaan,Bhandari,Male,17,Jaipur,Rajasthan,CBSE,Graduate,Event Manager,1200000,English,Yes,4.4,84,91,83,85,81,83
+SID1080,Shaurya,Pal,Male,18,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Historian,2100000,English,No,5,88,93,87,89,86,87.33
+SID1081,Aanya,Deshpande,Female,17,Mumbai,Maharashtra,CBSE,Graduate,Actor,2000000,English,Yes,4.8,88,93,87,88,85,86.67
+SID1082,Myra,Garg,Female,16,Delhi,Delhi,ICSE,Postgraduate,Stock Broker,3200000,English,Yes,5.6,91,96,92,93,90,91.67
+SID1083,Saanvi,Shinde,Female,18,Bangalore,Karnataka,State Board,High School,Mechanic,650000,Regional,No,3.3,75,87,72,77,73,74
+SID1084,Anika,Chauhan,Female,17,Hyderabad,Telangana,CBSE,Doctorate,Veterinarian,2800000,English,Yes,6,93,97,94,95,92,93.67
+SID1085,Aarohi,Goswami,Female,16,Chennai,Tamil Nadu,CBSE,Graduate,Musician,1400000,English,No,4.3,85,91,83,86,82,83.67
+SID1086,Navya,Sarkar,Female,18,Kolkata,West Bengal,ICSE,Postgraduate,Filmmaker,2700000,English,Yes,5.5,90,95,89,91,88,89.33
+SID1087,Diya,Kadam,Female,17,Pune,Maharashtra,State Board,Graduate,Photographer,1100000,English,Yes,4.9,87,92,86,88,84,86
+SID1088,Pari,Maurya,Female,16,Ahmedabad,Gujarat,CBSE,High School,Carpenter,400000,Hindi,No,3,72,85,68,74,70,70.67
+SID1089,Riya,Bhandari,Female,17,Jaipur,Rajasthan,CBSE,Graduate,Event Manager,1200000,English,Yes,4.6,86,92,85,87,83,85
+SID1090,Ishita,Pal,Female,18,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Historian,2100000,English,No,5.2,89,94,88,90,87,88.33
+SID1091,Kabir,Sethi,Male,17,Chandigarh,Punjab,CBSE,Graduate,Restaurateur,1800000,English,Yes,4.2,83,90,80,84,81,81.67
+SID1092,Zoya,Hussain,Female,16,Bhopal,Madhya Pradesh,State Board,Graduate,Social Worker,800000,Hindi,No,3.5,78,88,74,79,76,76.33
+SID1093,Advik,Purohit,Male,18,Surat,Gujarat,CBSE,Postgraduate,Data Scientist,2900000,English,Yes,5.8,92,96,93,94,91,92.67
+SID1094,Anaya,Jadhav,Female,17,Nagpur,Maharashtra,State Board,High School,Housewife,450000,Regional,No,2.7,69,83,65,71,67,67.67
+SID1095,Aryan,Karthik,Male,16,Visakhapatnam,Andhra Pradesh,State Board,Graduate,Navy Officer,1600000,English,Yes,4,81,90,79,82,80,80.33
+SID1096,Kiara,Singhania,Female,17,Indore,Madhya Pradesh,CBSE,Graduate,Fashion Designer,1500000,English,Yes,4.9,88,93,87,89,86,87.33
+SID1097,Veer,Prakash,Male,18,Kochi,Kerala,ICSE,Postgraduate,Pilot,3800000,English,Yes,5.4,90,95,90,91,88,89.67
+SID1098,Zara,Shaikh,Female,16,Coimbatore,Tamil Nadu,CBSE,Doctorate,Dentist,3300000,English,Yes,6.4,95,98,96,95,94,95
+SID1099,Dhruv,Negi,Male,17,Dehradun,Uttarakhand,ICSE,Graduate,Mountaineer,1000000,English,No,3.6,79,89,77,81,78,78.67
+SID1100,Eva,Abdullah,Female,18,Thiruvananthapuram,Kerala,State Board,Postgraduate,Librarian,1300000,English,Yes,4.6,85,91,84,86,82,84
+SID1101,Aarav,Mehra,Male,17,Mumbai,Maharashtra,CBSE,Postgraduate,Investment Banker,4000000,English,Yes,6.2,94,97,95,96,93,94.67
+SID1102,Vivaan,Anand,Male,16,Delhi,Delhi,ICSE,Graduate,Diplomat,3000000,English,Yes,5.9,92,96,93,94,91,92.67
+SID1103,Aditya,Basu,Male,18,Kolkata,West Bengal,State Board,High School,Taxi Driver,500000,Regional,No,2.5,68,82,64,70,66,66.67
+SID1104,Vihaan,Raman,Male,17,Chennai,Tamil Nadu,CBSE,Doctorate,ISRO Scientist,3500000,English,Yes,6.5,96,98,97,98,95,96.67
+SID1105,Arjun,Gowda,Male,16,Bangalore,Karnataka,State Board,Graduate,Software Tester,1000000,English,Yes,4.1,82,90,80,83,79,80.67
+SID1106,Sai,Dixit,Male,18,Pune,Maharashtra,CBSE,Postgraduate,Management Consultant,2800000,English,No,5.1,89,94,88,90,87,88.33
+SID1107,Reyansh,Ojha,Male,17,Lucknow,Uttar Pradesh,ICSE,Graduate,Politician,2200000,English,No,3.8,80,89,78,82,79,79.67
+SID1108,Krishna,Solanki,Male,16,Ahmedabad,Gujarat,State Board,High School,Plumber,300000,Hindi,No,2.2,65,80,60,67,62,63
+SID1109,Ishaan,Kashyap,Male,17,Patna,Bihar,CBSE,Graduate,Teacher,800000,Hindi,Yes,3.9,81,90,79,81,78,79.33
+SID1110,Shaurya,Tiwari,Male,18,Jaipur,Rajasthan,CBSE,Postgraduate,IAS Officer,2500000,English,Yes,5.7,91,96,92,93,90,91.67
+SID1111,Aanya,Mehra,Female,17,Mumbai,Maharashtra,CBSE,Postgraduate,Investment Banker,4000000,English,Yes,6.4,95,98,96,97,94,95.67
+SID1112,Myra,Anand,Female,16,Delhi,Delhi,ICSE,Graduate,Diplomat,3000000,English,Yes,6.1,93,97,94,95,92,93.67
+SID1113,Saanvi,Basu,Female,18,Kolkata,West Bengal,State Board,High School,Taxi Driver,500000,Regional,No,2.7,70,84,66,72,68,68.67
+SID1114,Anika,Raman,Female,17,Chennai,Tamil Nadu,CBSE,Doctorate,ISRO Scientist,3500000,English,Yes,6.7,97,99,98,99,96,97.67
+SID1115,Aarohi,Gowda,Female,16,Bangalore,Karnataka,State Board,Graduate,Software Tester,1000000,English,Yes,4.3,84,91,82,85,81,82.67
+SID1116,Navya,Dixit,Female,18,Pune,Maharashtra,CBSE,Postgraduate,Management Consultant,2800000,English,No,5.3,90,95,89,91,88,89.33
+SID1117,Diya,Ojha,Female,17,Lucknow,Uttar Pradesh,ICSE,Graduate,Politician,2200000,English,No,4,82,90,80,84,81,81.67
+SID1118,Pari,Solanki,Female,16,Ahmedabad,Gujarat,State Board,High School,Plumber,300000,Hindi,No,2.4,67,82,62,69,64,65
+SID1119,Riya,Kashyap,Female,17,Patna,Bihar,CBSE,Graduate,Teacher,800000,Hindi,Yes,4.1,83,91,81,83,80,81.33
+SID1120,Ishita,Tiwari,Female,18,Jaipur,Rajasthan,CBSE,Postgraduate,IAS Officer,2500000,English,Yes,5.9,92,97,93,94,91,92.67
+SID1121,Aarav,Sharma,Male,16,Delhi,Delhi,CBSE,Graduate,Engineer,1250000,English,Yes,4.6,86,92,87,89,84,86.67
+SID1122,Vivaan,Gupta,Male,17,Mumbai,Maharashtra,ICSE,Postgraduate,Doctor,2600000,English,Yes,5.9,93,96,94,95,91,93.33
+SID1123,Aditya,Verma,Male,18,Bangalore,Karnataka,State Board,High School,Business,850000,Regional,No,3.1,76,87,73,79,75,75.67
+SID1124,Vihaan,Singh,Male,16,Hyderabad,Telangana,CBSE,Doctorate,Professor,3100000,English,Yes,6.2,95,98,96,97,94,95.67
+SID1125,Arjun,Patel,Male,17,Chennai,Tamil Nadu,CBSE,Graduate,IT Professional,1550000,English,Yes,5.2,89,94,90,92,87,89.67
+SID1126,Sai,Kumar,Male,18,Kolkata,West Bengal,ICSE,Postgraduate,Lawyer,2050000,English,No,4.2,83,90,81,86,82,83
+SID1127,Reyansh,Yadav,Male,16,Pune,Maharashtra,State Board,Graduate,Architect,1850000,English,Yes,5,88,93,88,89,85,87.33
+SID1128,Krishna,Mishra,Male,17,Ahmedabad,Gujarat,CBSE,High School,Government Job,950000,Hindi,No,3.7,79,89,76,81,77,78
+SID1129,Ishaan,Das,Male,18,Jaipur,Rajasthan,CBSE,Graduate,Banker,1350000,English,Yes,4.4,85,91,84,87,82,84.33
+SID1130,Shaurya,Jain,Male,16,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Scientist,2250000,English,Yes,5.4,90,95,91,92,89,90.67
+SID1131,Aanya,Gupta,Female,17,Delhi,Delhi,CBSE,Graduate,Engineer,1250000,English,Yes,4.8,88,93,89,90,86,88.33
+SID1132,Myra,Sharma,Female,16,Mumbai,Maharashtra,ICSE,Postgraduate,Doctor,2600000,English,Yes,6,94,97,95,96,92,94.33
+SID1133,Saanvi,Verma,Female,18,Bangalore,Karnataka,State Board,High School,Business,850000,Regional,No,2.8,74,86,70,77,72,73
+SID1134,Anika,Singh,Female,17,Hyderabad,Telangana,CBSE,Doctorate,Professor,3100000,English,Yes,6.1,94,97,95,96,93,94.67
+SID1135,Aarohi,Patel,Female,16,Chennai,Tamil Nadu,CBSE,Graduate,IT Professional,1550000,English,Yes,5.3,90,95,91,93,88,90.67
+SID1136,Navya,Kumar,Female,18,Kolkata,West Bengal,ICSE,Postgraduate,Lawyer,2050000,English,No,4.4,85,91,83,87,84,84.67
+SID1137,Diya,Yadav,Female,17,Pune,Maharashtra,State Board,Graduate,Architect,1850000,English,Yes,5.1,89,94,89,90,86,88.33
+SID1138,Pari,Mishra,Female,16,Ahmedabad,Gujarat,CBSE,High School,Government Job,950000,Hindi,No,3.9,81,90,79,83,79,80.33
+SID1139,Riya,Das,Female,17,Jaipur,Rajasthan,CBSE,Graduate,Banker,1350000,English,Yes,4.7,87,92,86,88,84,86
+SID1140,Ishita,Jain,Female,18,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Scientist,2250000,English,Yes,5.7,92,96,93,94,91,92.67
+SID1141,Kabir,Chopra,Male,16,Chandigarh,Punjab,CBSE,Graduate,Businessman,1650000,English,Yes,4.1,81,90,79,82,78,79.67
+SID1142,Zoya,Khan,Female,17,Bhopal,Madhya Pradesh,State Board,Graduate,Teacher,750000,Hindi,No,3.4,77,88,73,79,75,75.67
+SID1143,Advik,Mehta,Male,18,Surat,Gujarat,CBSE,Postgraduate,Manager,1950000,English,Yes,5.2,89,94,87,91,86,88
+SID1144,Anaya,Malhotra,Female,16,Nagpur,Maharashtra,State Board,High School,Homemaker,550000,Regional,No,3,72,85,67,74,69,70
+SID1145,Aryan,Reddy,Male,17,Visakhapatnam,Andhra Pradesh,State Board,Graduate,Farmer,650000,Regional,Yes,3.7,79,89,76,80,77,77.67
+SID1146,Kiara,Bansal,Female,18,Indore,Madhya Pradesh,CBSE,Graduate,Accountant,1050000,English,Yes,4.5,86,92,85,87,83,85
+SID1147,Veer,Nair,Male,16,Kochi,Kerala,ICSE,Postgraduate,Software Engineer,2350000,English,Yes,5.3,90,95,89,92,88,89.67
+SID1148,Zara,Rao,Female,17,Coimbatore,Tamil Nadu,CBSE,Doctorate,Doctor,3550000,English,Yes,6.3,95,98,96,95,94,95
+SID1149,Dhruv,Joshi,Male,18,Dehradun,Uttarakhand,ICSE,Graduate,Army Officer,1450000,English,No,4,82,90,80,84,81,81.67
+SID1150,Eva,Pillai,Female,16,Thiruvananthapuram,Kerala,State Board,Postgraduate,Professor,2150000,English,Yes,5,88,93,87,89,86,87.33
+SID1151,Aarav,Patil,Male,16,Mumbai,Maharashtra,State Board,Graduate,Police Officer,1000000,Regional,No,3.5,78,88,75,80,77,77.33
+SID1152,Vivaan,Jha,Male,18,Delhi,Delhi,CBSE,Postgraduate,Consultant,2650000,English,Yes,5.8,92,96,93,94,91,92.67
+SID1153,Aditya,Dubey,Male,17,Bangalore,Karnataka,ICSE,Doctorate,Researcher,3250000,English,Yes,6.2,94,97,95,96,93,94.67
+SID1154,Vihaan,Trivedi,Male,16,Hyderabad,Telangana,CBSE,Graduate,Marketing Head,1750000,English,Yes,4.9,88,93,87,90,86,87.67
+SID1155,Arjun,Pandey,Male,18,Chennai,Tamil Nadu,State Board,High School,Driver,500000,Regional,No,2.9,70,84,66,72,68,68.67
+SID1156,Sai,Varma,Male,17,Kolkata,West Bengal,ICSE,Postgraduate,Artist,1950000,English,Yes,4.6,85,92,84,87,83,84.67
+SID1157,Reyansh,Prajapati,Male,16,Pune,Maharashtra,CBSE,Graduate,Civil Servant,1850000,English,No,5.3,90,95,89,91,88,89.33
+SID1158,Krishna,Saini,Male,17,Ahmedabad,Gujarat,State Board,Graduate,Pharmacist,1050000,English,Yes,4.1,83,90,81,85,80,82
+SID1159,Ishaan,Khatri,Male,18,Jaipur,Rajasthan,CBSE,High School,Electrician,600000,Hindi,No,3.2,75,87,71,77,73,73.67
+SID1160,Shaurya,Rathore,Male,17,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Judge,4050000,English,Yes,6.6,96,98,97,98,96,97
+SID1161,Aanya,Patil,Female,16,Mumbai,Maharashtra,State Board,Graduate,Police Officer,1000000,Regional,No,3.7,80,89,77,82,79,79.33
+SID1162,Myra,Jha,Female,18,Delhi,Delhi,CBSE,Postgraduate,Consultant,2650000,English,Yes,6,93,97,94,95,92,93.67
+SID1163,Saanvi,Dubey,Female,17,Bangalore,Karnataka,ICSE,Doctorate,Researcher,3250000,English,Yes,6.4,95,98,96,97,94,95.67
+SID1164,Anika,Trivedi,Female,16,Hyderabad,Telangana,CBSE,Graduate,Marketing Head,1750000,English,Yes,5.1,89,94,88,91,87,88.67
+SID1165,Aarohi,Pandey,Female,18,Chennai,Tamil Nadu,State Board,High School,Driver,500000,Regional,No,3.1,72,85,68,74,70,70.67
+SID1166,Navya,Varma,Female,17,Kolkata,West Bengal,ICSE,Postgraduate,Artist,1950000,English,Yes,4.8,87,93,86,89,85,86.67
+SID1167,Diya,Prajapati,Female,16,Pune,Maharashtra,CBSE,Graduate,Civil Servant,1850000,English,No,5.5,91,96,90,92,89,90.33
+SID1168,Pari,Saini,Female,17,Ahmedabad,Gujarat,State Board,Graduate,Pharmacist,1050000,English,Yes,4.3,85,91,83,86,82,83.67
+SID1169,Riya,Khatri,Female,18,Jaipur,Rajasthan,CBSE,High School,Electrician,600000,Hindi,No,3.4,77,88,73,79,75,75.67
+SID1170,Ishita,Rathore,Female,17,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Judge,4050000,English,Yes,6.8,97,99,98,99,97,98
+SID1171,Kabir,Kapoor,Male,16,Chandigarh,Punjab,CBSE,Doctorate,Surgeon,4550000,English,Yes,6.9,98,99,99,98,97,98
+SID1172,Zoya,Ali,Female,18,Bhopal,Madhya Pradesh,State Board,Graduate,Designer,1150000,English,Yes,4.5,84,91,82,85,81,82.67
+SID1173,Advik,Shetty,Male,17,Surat,Gujarat,CBSE,Postgraduate,Entrepreneur,3550000,English,Yes,5.7,91,95,91,93,89,91
+SID1174,Anaya,Desai,Female,16,Nagpur,Maharashtra,State Board,High School,Tailor,400000,Regional,No,2.6,68,82,64,69,65,66
+SID1175,Aryan,Naidu,Male,18,Visakhapatnam,Andhra Pradesh,State Board,Graduate,Fisherman,550000,Regional,No,3.2,73,86,69,75,71,71.67
+SID1176,Kiara,Agarwal,Female,17,Indore,Madhya Pradesh,CBSE,Graduate,CA,1450000,English,Yes,5,88,93,87,90,86,87.67
+SID1177,Veer,Menon,Male,16,Kochi,Kerala,ICSE,Postgraduate,Scientist,2450000,English,Yes,5.8,92,96,93,94,91,92.67
+SID1178,Zara,Pawar,Female,17,Coimbatore,Tamil Nadu,CBSE,High School,Factory Worker,450000,Regional,No,2.8,70,83,65,71,67,67.67
+SID1179,Dhruv,Rawat,Male,18,Dehradun,Uttarakhand,ICSE,Graduate,Hotel Manager,1250000,English,No,3.9,81,89,79,83,80,80.67
+SID1180,Eva,Iqbal,Female,16,Thiruvananthapuram,Kerala,State Board,Postgraduate,Writer,1550000,English,Yes,4.9,87,92,86,88,84,86
+SID1181,Arnav,Tomar,Male,17,Agra,Uttar Pradesh,CBSE,High School,Tourist Guide,650000,Hindi,Yes,3.6,76,88,72,78,74,74.67
+SID1182,Aisha,Kulkarni,Female,18,Madurai,Tamil Nadu,State Board,Graduate,Bank Teller,850000,Regional,No,3.8,80,90,78,81,79,79.33
+SID1183,Ryan,Bhatia,Male,17,Ludhiana,Punjab,ICSE,Postgraduate,Exporter,3050000,English,Yes,5.5,90,95,89,92,88,89.67
+SID1184,Ira,Thakur,Female,16,Patna,Bihar,State Board,High School,Labourer,300000,Hindi,No,2.2,63,78,59,64,61,61.33
+SID1185,Yuvan,Baruah,Male,18,Guwahati,Assam,CBSE,Graduate,Tea Planter,1350000,English,Yes,4.4,85,91,83,86,82,83.67
+SID1186,Aarav,Deshpande,Male,17,Mumbai,Maharashtra,CBSE,Graduate,Actor,2050000,English,Yes,4.8,87,92,86,88,84,86
+SID1187,Vivaan,Garg,Male,16,Delhi,Delhi,ICSE,Postgraduate,Stock Broker,3250000,English,Yes,5.6,91,95,92,93,90,91.67
+SID1188,Aditya,Shinde,Male,18,Bangalore,Karnataka,State Board,High School,Mechanic,700000,Regional,No,3.3,74,86,71,76,72,73
+SID1189,Vihaan,Chauhan,Male,17,Hyderabad,Telangana,CBSE,Doctorate,Veterinarian,2850000,English,Yes,6,93,97,94,95,92,93.67
+SID1190,Arjun,Goswami,Male,16,Chennai,Tamil Nadu,CBSE,Graduate,Musician,1450000,English,No,4.3,84,90,82,85,81,82.67
+SID1191,Sai,Sarkar,Male,18,Kolkata,West Bengal,ICSE,Postgraduate,Filmmaker,2750000,English,Yes,5.5,90,94,89,91,88,89.33
+SID1192,Reyansh,Kadam,Male,17,Pune,Maharashtra,State Board,Graduate,Photographer,1150000,English,Yes,4.9,86,91,85,87,83,85
+SID1193,Krishna,Maurya,Male,16,Ahmedabad,Gujarat,CBSE,High School,Carpenter,450000,Hindi,No,3,71,84,67,73,69,69.67
+SID1194,Ishaan,Bhandari,Male,17,Jaipur,Rajasthan,CBSE,Graduate,Event Manager,1250000,English,Yes,4.6,85,91,84,86,82,84
+SID1195,Shaurya,Pal,Male,18,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Historian,2150000,English,No,5.2,89,93,88,90,87,88.33
+SID1196,Aanya,Deshpande,Female,17,Mumbai,Maharashtra,CBSE,Graduate,Actor,2050000,English,Yes,5,89,93,88,89,86,87.67
+SID1197,Myra,Garg,Female,16,Delhi,Delhi,ICSE,Postgraduate,Stock Broker,3250000,English,Yes,5.8,92,96,93,94,91,92.67
+SID1198,Saanvi,Shinde,Female,18,Bangalore,Karnataka,State Board,High School,Mechanic,700000,Regional,No,3.5,76,87,73,78,74,75
+SID1199,Anika,Chauhan,Female,17,Hyderabad,Telangana,CBSE,Doctorate,Veterinarian,2850000,English,Yes,6.2,94,97,95,96,93,94.67
+SID1200,Aarohi,Goswami,Female,16,Chennai,Tamil Nadu,CBSE,Graduate,Musician,1450000,English,No,4.5,86,91,84,87,83,84.67
+SID1201,Aarav,Choudhary,Male,16,Jaipur,Rajasthan,CBSE,Graduate,Business,1500000,English,Yes,5,88,92,86,90,85,87
+SID1202,Diya,Soni,Female,17,Ahmedabad,Gujarat,State Board,High School,Jeweller,900000,Regional,No,3,76,88,72,78,74,74.67
+SID1203,Rohan,Bisht,Male,18,Dehradun,Uttarakhand,ICSE,Postgraduate,Army Officer,2000000,English,No,4.5,85,91,84,86,83,84.33
+SID1204,Ishika,Gehlot,Female,17,Jodhpur,Rajasthan,State Board,Graduate,Handicrafts,700000,Hindi,Yes,3.8,80,89,78,82,79,79.67
+SID1205,Samar,Trivedi,Male,16,Varanasi,Uttar Pradesh,CBSE,Postgraduate,Priest,600000,Hindi,No,2.8,72,85,68,75,70,71
+SID1206,Khushi,Goyal,Female,18,Kota,Rajasthan,CBSE,Doctorate,Coaching Owner,5000000,English,Yes,7,98,99,99,98,97,98
+SID1207,Neel,Chavan,Male,17,Nashik,Maharashtra,State Board,High School,Farmer,400000,Regional,No,2.5,68,82,65,70,66,67
+SID1208,Prisha,Dave,Female,16,Rajkot,Gujarat,CBSE,Graduate,Teacher,800000,English,Yes,4.2,84,90,82,85,81,82.67
+SID1209,Laksh,Gill,Male,18,Amritsar,Punjab,ICSE,Postgraduate,Exporter,2500000,English,No,4,82,89,80,84,80,81.33
+SID1210,Siya,Shukla,Female,17,Kanpur,Uttar Pradesh,State Board,Graduate,Clerk,750000,Hindi,No,3.2,77,87,74,79,75,76
+SID1211,Arin,Apte,Male,16,Pune,Maharashtra,CBSE,Doctorate,Surgeon,4200000,English,Yes,6.5,95,98,96,97,94,95.67
+SID1212,Anvi,Bedi,Female,18,Jalandhar,Punjab,CBSE,Graduate,Boutique Owner,1200000,English,Yes,4.8,87,93,85,89,86,86.67
+SID1213,Dev,Dutta,Male,17,Bhubaneswar,Odisha,ICSE,Postgraduate,Professor,2300000,English,Yes,5.5,91,95,92,93,90,91.67
+SID1214,Mahi,Mohanty,Female,16,Cuttack,Odisha,State Board,High School,Weaver,300000,Regional,No,2.2,65,80,60,68,62,63.33
+SID1215,Yash,Yadav,Male,18,Gurgaon,Haryana,CBSE,Graduate,Real Estate,2800000,English,Yes,4.7,86,92,85,88,84,85.67
+SID1216,Avni,Aggarwal,Female,17,Noida,Uttar Pradesh,ICSE,Postgraduate,Software Engineer,2600000,English,Yes,5.8,92,96,93,94,91,92.67
+SID1217,Leo,Lobo,Male,16,Panaji,Goa,State Board,Graduate,Tourism,1000000,English,No,3.5,79,88,76,81,78,78.33
+SID1218,Sana,Souza,Female,18,Margao,Goa,ICSE,High School,Shack Owner,800000,English,No,3.1,75,86,71,77,73,73.67
+SID1219,Omar,Obed,Male,17,Srinagar,Jammu and Kashmir,State Board,Graduate,Govt Employee,950000,English,Yes,4.1,83,90,81,84,80,81.67
+SID1220,Falak,Farooq,Female,16,Jammu,Jammu and Kashmir,CBSE,Postgraduate,Doctor,2400000,English,Yes,5.6,90,95,89,92,88,89.67
+SID1221,Aarav,Singh,Male,16,Jaipur,Rajasthan,CBSE,High School,Driver,450000,Hindi,No,2.5,68,84,65,71,67,67.67
+SID1222,Diya,Verma,Female,17,Ahmedabad,Gujarat,State Board,Graduate,Teacher,850000,English,Yes,4.3,85,91,83,86,82,83.67
+SID1223,Rohan,Gupta,Male,18,Dehradun,Uttarakhand,ICSE,Postgraduate,Businessman,2200000,English,Yes,5.2,89,94,88,91,87,88.67
+SID1224,Ishika,Sharma,Female,17,Jodhpur,Rajasthan,State Board,Graduate,Architect,1600000,English,Yes,4.8,87,92,86,88,84,86
+SID1225,Samar,Mishra,Male,16,Varanasi,Uttar Pradesh,CBSE,Postgraduate,Professor,2100000,Hindi,No,3.5,78,88,75,80,76,77
+SID1226,Khushi,Jain,Female,18,Kota,Rajasthan,CBSE,Doctorate,Engineer,4800000,English,Yes,7.2,99,99,100,98,97,98.33
+SID1227,Neel,Patel,Male,17,Nashik,Maharashtra,State Board,High School,Farmer,420000,Regional,No,2.7,70,83,67,72,68,69
+SID1228,Prisha,Shah,Female,16,Rajkot,Gujarat,CBSE,Graduate,Accountant,1100000,English,Yes,4.5,86,91,84,87,83,84.67
+SID1229,Laksh,Kumar,Male,18,Amritsar,Punjab,ICSE,Postgraduate,Lawyer,2600000,English,No,4.2,83,90,81,85,81,82.33
+SID1230,Siya,Singh,Female,17,Kanpur,Uttar Pradesh,State Board,Graduate,Clerk,780000,Hindi,No,3.4,79,87,76,81,77,78
+SID1231,Arin,Sharma,Male,16,Pune,Maharashtra,CBSE,Doctorate,Scientist,4300000,English,Yes,6.6,96,98,97,98,95,96.67
+SID1232,Anvi,Bansal,Female,18,Jalandhar,Punjab,CBSE,Graduate,Designer,1300000,English,Yes,5,88,93,86,90,87,87.67
+SID1233,Dev,Das,Male,17,Bhubaneswar,Odisha,ICSE,Postgraduate,Writer,2400000,English,Yes,5.6,92,95,93,94,91,92.67
+SID1234,Mahi,Patnaik,Female,16,Cuttack,Odisha,State Board,High School,Shopkeeper,350000,Regional,No,2.4,66,81,62,69,64,65
+SID1235,Yash,Yadav,Male,18,Gurgaon,Haryana,CBSE,Graduate,Manager,2900000,English,Yes,4.9,88,93,87,89,86,87.33
+SID1236,Avni,Gupta,Female,17,Noida,Uttar Pradesh,ICSE,Postgraduate,IT Head,2700000,English,Yes,6,93,96,94,95,92,93.67
+SID1237,Leo,Fernandes,Male,16,Panaji,Goa,State Board,Graduate,Hotelier,1100000,English,No,3.7,80,89,77,82,79,79.33
+SID1238,Sana,Khan,Female,18,Margao,Goa,ICSE,High School,Restaurateur,900000,English,No,3.3,76,86,72,78,74,74.67
+SID1239,Omar,Bhat,Male,17,Srinagar,Jammu and Kashmir,State Board,Graduate,Artisan,850000,English,Yes,4.2,84,90,82,85,81,82.67
+SID1240,Falak,Mir,Female,16,Jammu,Jammu and Kashmir,CBSE,Postgraduate,Professor,2500000,English,Yes,5.7,91,95,90,93,89,90.67
+SID1241,Aarav,Chauhan,Male,17,Mumbai,Maharashtra,CBSE,Graduate,Engineer,1300000,English,Yes,4.7,86,92,87,89,85,87
+SID1242,Vivaan,Joshi,Male,16,Delhi,Delhi,ICSE,Postgraduate,Doctor,2700000,English,Yes,6.1,93,96,94,95,92,93.67
+SID1243,Aditya,Rana,Male,18,Bangalore,Karnataka,State Board,High School,Business,900000,English,No,3.2,77,87,74,79,76,76.33
+SID1244,Vihaan,Thakur,Male,17,Hyderabad,Telangana,CBSE,Doctorate,Professor,3200000,English,Yes,6.3,95,98,96,97,94,95.67
+SID1245,Arjun,Srivastava,Male,16,Chennai,Tamil Nadu,CBSE,Graduate,IT Professional,1600000,English,Yes,5.3,90,94,90,92,88,90
+SID1246,Sai,Ghosh,Male,18,Kolkata,West Bengal,ICSE,Postgraduate,Lawyer,2100000,English,No,4.3,84,90,82,87,83,84
+SID1247,Reyansh,Sawant,Male,17,Pune,Maharashtra,State Board,Graduate,Architect,1900000,English,Yes,5.1,89,93,89,90,86,88.33
+SID1248,Krishna,Pawar,Male,16,Ahmedabad,Gujarat,CBSE,High School,Government Job,1000000,English,No,3.8,80,89,77,82,78,79
+SID1249,Ishaan,Agrawal,Male,17,Jaipur,Rajasthan,CBSE,Graduate,Banker,1400000,English,Yes,4.5,86,91,85,88,83,85.33
+SID1250,Shaurya,Roy,Male,18,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Scientist,2300000,English,Yes,5.5,91,95,92,93,90,91.67
+SID1251,Aanya,Chauhan,Female,17,Mumbai,Maharashtra,CBSE,Graduate,Engineer,1300000,English,Yes,4.9,88,93,88,90,86,88
+SID1252,Myra,Joshi,Female,16,Delhi,Delhi,ICSE,Postgraduate,Doctor,2700000,English,Yes,6.2,94,97,95,96,93,94.67
+SID1253,Saanvi,Rana,Female,18,Bangalore,Karnataka,State Board,High School,Business,900000,Regional,No,3,75,86,71,78,73,74
+SID1254,Anika,Thakur,Female,17,Hyderabad,Telangana,CBSE,Doctorate,Professor,3200000,English,Yes,6.4,96,98,97,98,95,96.67
+SID1255,Aarohi,Srivastava,Female,16,Chennai,Tamil Nadu,CBSE,Graduate,IT Professional,1600000,English,Yes,5.4,91,95,91,93,89,91
+SID1256,Navya,Ghosh,Female,18,Kolkata,West Bengal,ICSE,Postgraduate,Lawyer,2100000,English,No,4.5,86,91,84,88,85,85.67
+SID1257,Diya,Sawant,Female,17,Pune,Maharashtra,State Board,Graduate,Architect,1900000,English,Yes,5.2,90,94,90,91,87,89.33
+SID1258,Pari,Pawar,Female,16,Ahmedabad,Gujarat,CBSE,High School,Government Job,1000000,Hindi,No,4,82,90,79,84,80,81
+SID1259,Riya,Agrawal,Female,17,Jaipur,Rajasthan,CBSE,Graduate,Banker,1400000,English,Yes,4.7,87,92,86,89,84,86.33
+SID1260,Ishita,Roy,Female,18,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Scientist,2300000,English,Yes,5.7,92,96,93,94,91,92.67
+SID1261,Kabir,Malik,Male,16,Chandigarh,Punjab,CBSE,Graduate,Businessman,1700000,English,Yes,4.3,83,90,81,84,80,81.67
+SID1262,Zoya,Ansari,Female,17,Bhopal,Madhya Pradesh,State Board,Graduate,Teacher,800000,Hindi,No,3.6,78,88,74,80,76,76.67
+SID1263,Advik,Gokhale,Male,18,Surat,Gujarat,CBSE,Postgraduate,Manager,2000000,English,Yes,5.3,90,94,88,92,87,89
+SID1264,Anaya,Kadam,Female,16,Nagpur,Maharashtra,State Board,High School,Homemaker,600000,Regional,No,3.1,73,85,68,75,70,71
+SID1265,Aryan,Murthy,Male,17,Visakhapatnam,Andhra Pradesh,State Board,Graduate,Farmer,700000,Regional,Yes,3.9,80,89,77,81,78,78.67
+SID1266,Kiara,Mittal,Female,18,Indore,Madhya Pradesh,CBSE,Graduate,Accountant,1100000,English,Yes,4.6,87,92,86,88,84,86
+SID1267,Veer,Warrier,Male,16,Kochi,Kerala,ICSE,Postgraduate,Software Engineer,2400000,English,Yes,5.4,91,95,90,93,89,90.67
+SID1268,Zara,Qureshi,Female,17,Coimbatore,Tamil Nadu,CBSE,Doctorate,Doctor,3600000,English,Yes,6.5,96,98,97,96,95,96
+SID1269,Dhruv,Pant,Male,18,Dehradun,Uttarakhand,ICSE,Graduate,Army Officer,1500000,English,No,4.1,83,90,81,85,82,82.67
+SID1270,Eva,Mathew,Female,16,Thiruvananthapuram,Kerala,State Board,Postgraduate,Professor,2200000,English,Yes,5.1,89,93,88,90,87,88.33
+SID1271,Arnav,Pathak,Male,17,Agra,Uttar Pradesh,CBSE,High School,Shopkeeper,500000,Hindi,No,2.7,69,83,65,71,67,67.67
+SID1272,Aisha,Nambiar,Female,18,Madurai,Tamil Nadu,State Board,Graduate,Clerk,800000,Regional,Yes,3.7,80,90,78,81,79,79.33
+SID1273,Ryan,Dhillon,Male,17,Ludhiana,Punjab,ICSE,Postgraduate,Industrialist,3100000,English,Yes,5.1,88,94,87,90,86,87.67
+SID1274,Ira,Yadav,Female,16,Patna,Bihar,State Board,High School,Farmer,320000,Hindi,No,2.3,64,79,60,65,62,62.33
+SID1275,Yuvan,Chakraborty,Male,18,Guwahati,Assam,CBSE,Graduate,Journalist,1200000,English,Yes,4.3,84,91,82,85,81,82.67
+SID1276,Aarav,Sharma,Male,16,Mumbai,Maharashtra,State Board,Graduate,Police Officer,1050000,Regional,No,3.6,79,88,76,81,78,78.33
+SID1277,Vivaan,Verma,Male,18,Delhi,Delhi,CBSE,Postgraduate,Consultant,2700000,English,Yes,5.9,93,96,94,95,92,93.67
+SID1278,Aditya,Singh,Male,17,Bangalore,Karnataka,ICSE,Doctorate,Researcher,3300000,English,Yes,6.3,95,98,96,97,94,95.67
+SID1279,Vihaan,Gupta,Male,16,Hyderabad,Telangana,CBSE,Graduate,Marketing Head,1800000,English,Yes,5,89,93,88,91,87,88.67
+SID1280,Arjun,Kumar,Male,18,Chennai,Tamil Nadu,State Board,High School,Driver,550000,Regional,No,3,71,84,67,73,69,69.67
+SID1281,Sai,Patel,Male,17,Kolkata,West Bengal,ICSE,Postgraduate,Artist,2000000,English,Yes,4.7,86,92,85,88,84,85.67
+SID1282,Reyansh,Mishra,Male,16,Pune,Maharashtra,CBSE,Graduate,Civil Servant,1900000,English,No,5.4,91,95,90,92,89,90.33
+SID1283,Krishna,Yadav,Male,17,Ahmedabad,Gujarat,State Board,Graduate,Pharmacist,1100000,English,Yes,4.2,84,90,82,86,81,83
+SID1284,Ishaan,Jain,Male,18,Jaipur,Rajasthan,CBSE,High School,Electrician,650000,Hindi,No,3.3,76,87,72,78,74,74.67
+SID1285,Shaurya,Das,Male,17,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Judge,4100000,English,Yes,6.7,97,99,98,99,97,98
+SID1286,Aanya,Sharma,Female,16,Mumbai,Maharashtra,State Board,Graduate,Police Officer,1050000,Regional,No,3.8,81,89,78,83,80,80.33
+SID1287,Myra,Verma,Female,18,Delhi,Delhi,CBSE,Postgraduate,Consultant,2700000,English,Yes,6.1,94,97,95,96,93,94.67
+SID1288,Saanvi,Singh,Female,17,Bangalore,Karnataka,ICSE,Doctorate,Researcher,3300000,English,Yes,6.5,96,98,97,98,95,96.67
+SID1289,Anika,Gupta,Female,16,Hyderabad,Telangana,CBSE,Graduate,Marketing Head,1800000,English,Yes,5.2,90,94,89,92,88,89.67
+SID1290,Aarohi,Kumar,Female,18,Chennai,Tamil Nadu,State Board,High School,Driver,550000,Regional,No,3.2,73,85,69,75,71,71.67
+SID1291,Navya,Patel,Female,17,Kolkata,West Bengal,ICSE,Postgraduate,Artist,2000000,English,Yes,4.9,88,93,87,90,86,87.67
+SID1292,Diya,Mishra,Female,16,Pune,Maharashtra,CBSE,Graduate,Civil Servant,1900000,English,No,5.6,92,96,91,93,90,91.33
+SID1293,Pari,Yadav,Female,17,Ahmedabad,Gujarat,State Board,Graduate,Pharmacist,1100000,English,Yes,4.4,86,91,84,87,83,84.67
+SID1294,Riya,Jain,Female,18,Jaipur,Rajasthan,CBSE,High School,Electrician,650000,Hindi,No,3.5,78,88,74,80,76,76.67
+SID1295,Ishita,Das,Female,17,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Judge,4100000,English,Yes,6.9,98,99,99,100,98,99
+SID1296,Kabir,Kapoor,Male,16,Chandigarh,Punjab,CBSE,Doctorate,Surgeon,4600000,English,Yes,7,99,100,100,99,98,99
+SID1297,Zoya,Ali,Female,18,Bhopal,Madhya Pradesh,State Board,Graduate,Designer,1200000,English,Yes,4.6,85,91,83,86,82,83.67
+SID1298,Advik,Shetty,Male,17,Surat,Gujarat,CBSE,Postgraduate,Entrepreneur,3600000,English,Yes,5.8,92,95,92,94,90,92
+SID1299,Anaya,Desai,Female,16,Nagpur,Maharashtra,State Board,High School,Tailor,450000,Regional,No,2.7,69,82,65,70,66,67
+SID1300,Aryan,Naidu,Male,18,Visakhapatnam,Andhra Pradesh,State Board,Graduate,Fisherman,600000,Regional,No,3.3,74,86,70,76,72,72.67
+SID1301,Kiara,Agarwal,Female,17,Indore,Madhya Pradesh,CBSE,Graduate,CA,1500000,English,Yes,5.1,89,93,88,91,87,88.67
+SID1302,Veer,Menon,Male,16,Kochi,Kerala,ICSE,Postgraduate,Scientist,2500000,English,Yes,5.9,93,96,94,95,92,93.67
+SID1303,Zara,Pawar,Female,17,Coimbatore,Tamil Nadu,CBSE,High School,Factory Worker,500000,Regional,No,2.9,71,83,66,72,68,68.67
+SID1304,Dhruv,Rawat,Male,18,Dehradun,Uttarakhand,ICSE,Graduate,Hotel Manager,1300000,English,No,4,82,89,80,84,81,81.67
+SID1305,Eva,Iqbal,Female,16,Thiruvananthapuram,Kerala,State Board,Postgraduate,Writer,1600000,English,Yes,5,88,92,87,89,85,87
+SID1306,Arnav,Tomar,Male,17,Agra,Uttar Pradesh,CBSE,High School,Tourist Guide,700000,Hindi,Yes,3.7,77,88,73,79,75,75.67
+SID1307,Aisha,Kulkarni,Female,18,Madurai,Tamil Nadu,State Board,Graduate,Bank Teller,900000,Regional,No,3.9,81,90,79,82,80,80.33
+SID1308,Ryan,Bhatia,Male,17,Ludhiana,Punjab,ICSE,Postgraduate,Exporter,3100000,English,Yes,5.6,91,95,90,93,89,90.67
+SID1309,Ira,Thakur,Female,16,Patna,Bihar,State Board,High School,Labourer,350000,Hindi,No,2.3,64,78,60,65,62,62.33
+SID1310,Yuvan,Baruah,Male,18,Guwahati,Assam,CBSE,Graduate,Tea Planter,1400000,English,Yes,4.5,86,91,84,87,83,84.67
+SID1311,Aarav,Deshpande,Male,17,Mumbai,Maharashtra,CBSE,Graduate,Actor,2100000,English,Yes,4.9,88,92,87,89,85,87
+SID1312,Vivaan,Garg,Male,16,Delhi,Delhi,ICSE,Postgraduate,Stock Broker,3300000,English,Yes,5.7,92,95,93,94,91,92.67
+SID1313,Aditya,Shinde,Male,18,Bangalore,Karnataka,State Board,High School,Mechanic,750000,Regional,No,3.4,75,86,72,77,73,74
+SID1314,Vihaan,Chauhan,Male,17,Hyderabad,Telangana,CBSE,Doctorate,Veterinarian,2900000,English,Yes,6.1,94,97,95,96,93,94.67
+SID1315,Arjun,Goswami,Male,16,Chennai,Tamil Nadu,CBSE,Graduate,Musician,1500000,English,No,4.4,85,90,83,86,82,83.67
+SID1316,Sai,Sarkar,Male,18,Kolkata,West Bengal,ICSE,Postgraduate,Filmmaker,2800000,English,Yes,5.6,91,94,90,92,89,90.33
+SID1317,Reyansh,Kadam,Male,17,Pune,Maharashtra,State Board,Graduate,Photographer,1200000,English,Yes,5,87,91,86,88,84,86
+SID1318,Krishna,Maurya,Male,16,Ahmedabad,Gujarat,CBSE,High School,Carpenter,500000,Hindi,No,3.1,72,84,68,74,70,70.67
+SID1319,Ishaan,Bhandari,Male,17,Jaipur,Rajasthan,CBSE,Graduate,Event Manager,1300000,English,Yes,4.7,86,91,85,87,83,85
+SID1320,Shaurya,Pal,Male,18,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Historian,2200000,English,No,5.3,90,93,89,91,88,89.33
+SID1321,Aanya,Deshpande,Female,17,Mumbai,Maharashtra,CBSE,Graduate,Actor,2100000,English,Yes,5.1,90,93,89,90,87,88.67
+SID1322,Myra,Garg,Female,16,Delhi,Delhi,ICSE,Postgraduate,Stock Broker,3300000,English,Yes,5.9,93,96,94,95,92,93.67
+SID1323,Saanvi,Shinde,Female,18,Bangalore,Karnataka,State Board,High School,Mechanic,750000,Regional,No,3.6,77,87,74,79,75,76
+SID1324,Anika,Chauhan,Female,17,Hyderabad,Telangana,CBSE,Doctorate,Veterinarian,2900000,English,Yes,6.3,95,97,96,97,94,95.67
+SID1325,Aarohi,Goswami,Female,16,Chennai,Tamil Nadu,CBSE,Graduate,Musician,1500000,English,No,4.6,87,91,85,88,84,85.67
+SID1326,Navya,Sarkar,Female,18,Kolkata,West Bengal,ICSE,Postgraduate,Filmmaker,2800000,English,Yes,5.7,92,94,91,93,90,91.33
+SID1327,Diya,Kadam,Female,17,Pune,Maharashtra,State Board,Graduate,Photographer,1200000,English,Yes,5.1,88,91,87,89,85,87
+SID1328,Pari,Maurya,Female,16,Ahmedabad,Gujarat,CBSE,High School,Carpenter,500000,Hindi,No,3.2,73,84,69,75,71,71.67
+SID1329,Riya,Bhandari,Female,17,Jaipur,Rajasthan,CBSE,Graduate,Event Manager,1300000,English,Yes,4.8,87,91,86,88,84,86
+SID1330,Ishita,Pal,Female,18,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Historian,2200000,English,No,5.4,91,93,90,92,89,90.33
+SID1331,Kabir,Sethi,Male,17,Chandigarh,Punjab,CBSE,Graduate,Restaurateur,1850000,English,Yes,4.4,84,90,81,85,82,82.67
+SID1332,Zoya,Hussain,Female,16,Bhopal,Madhya Pradesh,State Board,Graduate,Social Worker,850000,Hindi,No,3.7,79,88,75,80,77,77.33
+SID1333,Advik,Purohit,Male,18,Surat,Gujarat,CBSE,Postgraduate,Data Scientist,2950000,English,Yes,5.9,93,96,94,95,92,93.67
+SID1334,Anaya,Jadhav,Female,17,Nagpur,Maharashtra,State Board,High School,Housewife,500000,Regional,No,2.8,70,83,66,72,68,68.67
+SID1335,Aryan,Karthik,Male,16,Visakhapatnam,Andhra Pradesh,State Board,Graduate,Navy Officer,1650000,English,Yes,4.1,82,90,80,83,79,80.67
+SID1336,Kiara,Singhania,Female,17,Indore,Madhya Pradesh,CBSE,Graduate,Fashion Designer,1550000,English,Yes,5,89,93,88,90,87,88.33
+SID1337,Veer,Prakash,Male,18,Kochi,Kerala,ICSE,Postgraduate,Pilot,3850000,English,Yes,5.5,91,95,91,92,89,90.67
+SID1338,Zara,Shaikh,Female,16,Coimbatore,Tamil Nadu,CBSE,Doctorate,Dentist,3350000,English,Yes,6.5,96,98,97,96,95,96
+SID1339,Dhruv,Negi,Male,17,Dehradun,Uttarakhand,ICSE,Graduate,Mountaineer,1050000,English,No,3.7,80,89,78,82,79,79.67
+SID1340,Eva,Abdullah,Female,18,Thiruvananthapuram,Kerala,State Board,Postgraduate,Librarian,1350000,English,Yes,4.7,86,91,85,87,83,85
+SID1341,Arnav,Mehra,Male,17,Mumbai,Maharashtra,CBSE,Postgraduate,Investment Banker,4050000,English,Yes,6.3,95,97,96,97,94,95.67
+SID1342,Vivaan,Anand,Male,16,Delhi,Delhi,ICSE,Graduate,Diplomat,3050000,English,Yes,6,93,96,94,95,92,93.67
+SID1343,Aditya,Basu,Male,18,Kolkata,West Bengal,State Board,High School,Taxi Driver,550000,Regional,No,2.6,69,82,65,71,67,67.67
+SID1344,Vihaan,Raman,Male,17,Chennai,Tamil Nadu,CBSE,Doctorate,ISRO Scientist,3550000,English,Yes,6.6,97,98,98,99,96,97.67
+SID1345,Arjun,Gowda,Male,16,Bangalore,Karnataka,State Board,Graduate,Software Tester,1050000,English,Yes,4.2,83,90,81,84,80,81.67
+SID1346,Sai,Dixit,Male,18,Pune,Maharashtra,CBSE,Postgraduate,Management Consultant,2850000,English,No,5.2,90,94,89,91,88,89.33
+SID1347,Reyansh,Ojha,Male,17,Lucknow,Uttar Pradesh,ICSE,Graduate,Politician,2250000,English,No,3.9,81,89,79,83,80,80.67
+SID1348,Krishna,Solanki,Male,16,Ahmedabad,Gujarat,State Board,High School,Plumber,350000,Hindi,No,2.3,66,80,61,68,63,64
+SID1349,Ishaan,Kashyap,Male,17,Patna,Bihar,CBSE,Graduate,Teacher,850000,Hindi,Yes,4,82,90,80,82,79,80.33
+SID1350,Shaurya,Tiwari,Male,18,Jaipur,Rajasthan,CBSE,Postgraduate,IAS Officer,2550000,English,Yes,5.8,92,96,93,94,91,92.67
+SID1351,Aanya,Mehra,Female,17,Mumbai,Maharashtra,CBSE,Postgraduate,Investment Banker,4050000,English,Yes,6.5,96,98,97,98,95,96.67
+SID1352,Myra,Anand,Female,16,Delhi,Delhi,ICSE,Graduate,Diplomat,3050000,English,Yes,6.2,94,97,95,96,93,94.67
+SID1353,Saanvi,Basu,Female,18,Kolkata,West Bengal,State Board,High School,Taxi Driver,550000,Regional,No,2.8,71,84,67,73,69,69.67
+SID1354,Anika,Raman,Female,17,Chennai,Tamil Nadu,CBSE,Doctorate,ISRO Scientist,3550000,English,Yes,6.8,98,99,99,100,97,98.67
+SID1355,Aarohi,Gowda,Female,16,Bangalore,Karnataka,State Board,Graduate,Software Tester,1050000,English,Yes,4.4,85,91,83,86,82,83.67
+SID1356,Navya,Dixit,Female,18,Pune,Maharashtra,CBSE,Postgraduate,Management Consultant,2850000,English,No,5.4,91,95,90,92,89,90.33
+SID1357,Diya,Ojha,Female,17,Lucknow,Uttar Pradesh,ICSE,Graduate,Politician,2250000,English,No,4.1,83,90,81,85,82,82.67
+SID1358,Pari,Solanki,Female,16,Ahmedabad,Gujarat,State Board,High School,Plumber,350000,Hindi,No,2.5,68,82,63,70,65,66
+SID1359,Riya,Kashyap,Female,17,Patna,Bihar,CBSE,Graduate,Teacher,850000,Hindi,Yes,4.2,84,91,82,84,81,82.33
+SID1360,Ishita,Tiwari,Female,18,Jaipur,Rajasthan,CBSE,Postgraduate,IAS Officer,2550000,English,Yes,6,93,97,94,95,92,93.67
+SID1361,Aarav,Sharma,Male,16,Delhi,Delhi,CBSE,Graduate,Engineer,1300000,English,Yes,4.7,87,92,88,90,85,87.67
+SID1362,Vivaan,Gupta,Male,17,Mumbai,Maharashtra,ICSE,Postgraduate,Doctor,2650000,English,Yes,6,94,96,95,96,92,94.33
+SID1363,Aditya,Verma,Male,18,Bangalore,Karnataka,State Board,High School,Business,900000,Regional,No,3.2,77,87,74,80,76,76.67
+SID1364,Vihaan,Singh,Male,16,Hyderabad,Telangana,CBSE,Doctorate,Professor,3150000,English,Yes,6.3,96,98,97,98,95,96.67
+SID1365,Arjun,Patel,Male,17,Chennai,Tamil Nadu,CBSE,Graduate,IT Professional,1600000,English,Yes,5.3,90,94,91,93,88,90.67
+SID1366,Sai,Kumar,Male,18,Kolkata,West Bengal,ICSE,Postgraduate,Lawyer,2100000,English,No,4.3,84,90,82,87,83,84
+SID1367,Reyansh,Yadav,Male,16,Pune,Maharashtra,State Board,Graduate,Architect,1900000,English,Yes,5.1,89,93,89,90,86,88.33
+SID1368,Krishna,Mishra,Male,17,Ahmedabad,Gujarat,CBSE,High School,Government Job,1000000,Hindi,No,3.8,80,89,77,82,78,79
+SID1369,Ishaan,Das,Male,18,Jaipur,Rajasthan,CBSE,Graduate,Banker,1400000,English,Yes,4.5,86,91,85,88,83,85.33
+SID1370,Shaurya,Jain,Male,16,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Scientist,2300000,English,Yes,5.5,91,95,92,93,90,91.67
+SID1371,Aanya,Gupta,Female,17,Delhi,Delhi,CBSE,Graduate,Engineer,1300000,English,Yes,4.9,89,93,90,91,87,89.33
+SID1372,Myra,Sharma,Female,16,Mumbai,Maharashtra,ICSE,Postgraduate,Doctor,2650000,English,Yes,6.1,95,97,96,97,93,95.33
+SID1373,Saanvi,Verma,Female,18,Bangalore,Karnataka,State Board,High School,Business,900000,Regional,No,2.9,75,86,71,78,73,74
+SID1374,Anika,Singh,Female,17,Hyderabad,Telangana,CBSE,Doctorate,Professor,3150000,English,Yes,6.2,95,97,96,97,94,95.67
+SID1375,Aarohi,Patel,Female,16,Chennai,Tamil Nadu,CBSE,Graduate,IT Professional,1600000,English,Yes,5.4,91,95,92,94,89,91.67
+SID1376,Navya,Kumar,Female,18,Kolkata,West Bengal,ICSE,Postgraduate,Lawyer,2100000,English,No,4.5,86,91,84,88,85,85.67
+SID1377,Diya,Yadav,Female,17,Pune,Maharashtra,State Board,Graduate,Architect,1900000,English,Yes,5.2,90,94,90,91,87,89.33
+SID1378,Pari,Mishra,Female,16,Ahmedabad,Gujarat,CBSE,High School,Government Job,1000000,Hindi,No,4,82,90,79,84,80,81
+SID1379,Riya,Das,Female,17,Jaipur,Rajasthan,CBSE,Graduate,Banker,1400000,English,Yes,4.8,88,92,87,89,85,87
+SID1380,Ishita,Jain,Female,18,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Scientist,2300000,English,Yes,5.8,93,96,94,95,92,93.67
+SID1381,Kabir,Chopra,Male,16,Chandigarh,Punjab,CBSE,Graduate,Businessman,1700000,English,Yes,4.2,82,90,80,83,79,80.67
+SID1382,Zoya,Khan,Female,17,Bhopal,Madhya Pradesh,State Board,Graduate,Teacher,800000,Hindi,No,3.5,78,88,74,80,76,76.67
+SID1383,Advik,Mehta,Male,18,Surat,Gujarat,CBSE,Postgraduate,Manager,2000000,English,Yes,5.3,90,94,88,92,87,89
+SID1384,Anaya,Malhotra,Female,16,Nagpur,Maharashtra,State Board,High School,Homemaker,600000,Regional,No,3.1,73,85,68,75,70,71
+SID1385,Aryan,Reddy,Male,17,Visakhapatnam,Andhra Pradesh,State Board,Graduate,Farmer,700000,Regional,Yes,3.9,80,89,77,81,78,78.67
+SID1386,Kiara,Bansal,Female,18,Indore,Madhya Pradesh,CBSE,Graduate,Accountant,1100000,English,Yes,4.6,87,92,86,88,84,86
+SID1387,Veer,Nair,Male,16,Kochi,Kerala,ICSE,Postgraduate,Software Engineer,2400000,English,Yes,5.4,91,95,90,93,89,90.67
+SID1388,Zara,Rao,Female,17,Coimbatore,Tamil Nadu,CBSE,Doctorate,Doctor,3600000,English,Yes,6.5,96,98,97,96,95,96
+SID1389,Dhruv,Joshi,Male,18,Dehradun,Uttarakhand,ICSE,Graduate,Army Officer,1500000,English,No,4.1,83,90,81,85,82,82.67
+SID1390,Eva,Pillai,Female,16,Thiruvananthapuram,Kerala,State Board,Postgraduate,Professor,2200000,English,Yes,5.1,89,93,88,90,87,88.33
+SID1391,Aarav,Patil,Male,16,Mumbai,Maharashtra,State Board,Graduate,Police Officer,1100000,Regional,No,3.7,79,88,76,81,78,78.33
+SID1392,Vivaan,Jha,Male,18,Delhi,Delhi,CBSE,Postgraduate,Consultant,2750000,English,Yes,5.9,93,96,94,95,92,93.67
+SID1393,Aditya,Dubey,Male,17,Bangalore,Karnataka,ICSE,Doctorate,Researcher,3350000,English,Yes,6.4,95,98,96,97,94,95.67
+SID1394,Vihaan,Trivedi,Male,16,Hyderabad,Telangana,CBSE,Graduate,Marketing Head,1850000,English,Yes,5,89,93,88,91,87,88.67
+SID1395,Arjun,Pandey,Male,18,Chennai,Tamil Nadu,State Board,High School,Driver,600000,Regional,No,3.1,72,84,68,74,70,70.67
+SID1396,Sai,Varma,Male,17,Kolkata,West Bengal,ICSE,Postgraduate,Artist,2050000,English,Yes,4.8,87,92,86,89,85,86.67
+SID1397,Reyansh,Prajapati,Male,16,Pune,Maharashtra,CBSE,Graduate,Civil Servant,1950000,English,No,5.5,91,95,90,92,89,90.33
+SID1398,Krishna,Saini,Male,17,Ahmedabad,Gujarat,State Board,Graduate,Pharmacist,1150000,English,Yes,4.3,85,90,83,87,82,84
+SID1399,Ishaan,Khatri,Male,18,Jaipur,Rajasthan,CBSE,High School,Electrician,700000,Hindi,No,3.4,77,87,73,79,75,75.67
+SID1400,Shaurya,Rathore,Male,17,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Judge,4150000,English,Yes,6.8,97,99,98,99,97,98
+SID1401,Aanya,Patil,Female,16,Mumbai,Maharashtra,State Board,Graduate,Police Officer,1100000,Regional,No,3.9,82,89,79,84,81,81.33
+SID1402,Myra,Jha,Female,18,Delhi,Delhi,CBSE,Postgraduate,Consultant,2750000,English,Yes,6.1,94,97,95,96,93,94.67
+SID1403,Saanvi,Dubey,Female,17,Bangalore,Karnataka,ICSE,Doctorate,Researcher,3350000,English,Yes,6.6,96,98,97,98,95,96.67
+SID1404,Anika,Trivedi,Female,16,Hyderabad,Telangana,CBSE,Graduate,Marketing Head,1850000,English,Yes,5.2,90,94,89,92,88,89.67
+SID1405,Aarohi,Pandey,Female,18,Chennai,Tamil Nadu,State Board,High School,Driver,600000,Regional,No,3.3,74,85,70,76,72,72.67
+SID1406,Navya,Varma,Female,17,Kolkata,West Bengal,ICSE,Postgraduate,Artist,2050000,English,Yes,5,88,93,87,90,86,87.67
+SID1407,Diya,Prajapati,Female,16,Pune,Maharashtra,CBSE,Graduate,Civil Servant,1950000,English,No,5.7,92,96,91,93,90,91.33
+SID1408,Pari,Saini,Female,17,Ahmedabad,Gujarat,State Board,Graduate,Pharmacist,1150000,English,Yes,4.5,86,91,84,88,83,85
+SID1409,Riya,Khatri,Female,18,Jaipur,Rajasthan,CBSE,High School,Electrician,700000,Hindi,No,3.6,79,88,75,81,77,77.67
+SID1410,Ishita,Rathore,Female,17,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Judge,4150000,English,Yes,7,98,99,99,100,98,99
+SID1411,Kabir,Kapoor,Male,16,Chandigarh,Punjab,CBSE,Doctorate,Surgeon,4650000,English,Yes,7.1,99,100,100,99,98,99
+SID1412,Zoya,Ali,Female,18,Bhopal,Madhya Pradesh,State Board,Graduate,Designer,1250000,English,Yes,4.7,86,91,84,87,83,84.67
+SID1413,Advik,Shetty,Male,17,Surat,Gujarat,CBSE,Postgraduate,Entrepreneur,3650000,English,Yes,5.9,93,95,93,95,91,93
+SID1414,Anaya,Desai,Female,16,Nagpur,Maharashtra,State Board,High School,Tailor,500000,Regional,No,2.8,70,82,66,71,67,68
+SID1415,Aryan,Naidu,Male,18,Visakhapatnam,Andhra Pradesh,State Board,Graduate,Fisherman,650000,Regional,No,3.4,75,86,71,77,73,73.67
+SID1416,Kiara,Agarwal,Female,17,Indore,Madhya Pradesh,CBSE,Graduate,CA,1550000,English,Yes,5.2,90,93,89,92,88,89.67
+SID1417,Veer,Menon,Male,16,Kochi,Kerala,ICSE,Postgraduate,Scientist,2550000,English,Yes,6,94,96,95,96,93,94.67
+SID1418,Zara,Pawar,Female,17,Coimbatore,Tamil Nadu,CBSE,High School,Factory Worker,550000,Regional,No,3,72,83,67,73,69,69.67
+SID1419,Dhruv,Rawat,Male,18,Dehradun,Uttarakhand,ICSE,Graduate,Hotel Manager,1350000,English,No,4.1,83,89,81,85,82,82.67
+SID1420,Eva,Iqbal,Female,16,Thiruvananthapuram,Kerala,State Board,Postgraduate,Writer,1650000,English,Yes,5.1,89,92,88,90,86,88
+SID1421,Arnav,Tomar,Male,17,Agra,Uttar Pradesh,CBSE,High School,Tourist Guide,750000,Hindi,Yes,3.8,78,88,74,80,76,76.67
+SID1422,Aisha,Kulkarni,Female,18,Madurai,Tamil Nadu,State Board,Graduate,Bank Teller,950000,Regional,No,4,82,90,80,83,81,81.33
+SID1423,Ryan,Bhatia,Male,17,Ludhiana,Punjab,ICSE,Postgraduate,Exporter,3150000,English,Yes,5.7,92,95,91,94,90,91.67
+SID1424,Ira,Thakur,Female,16,Patna,Bihar,State Board,High School,Labourer,400000,Hindi,No,2.4,65,78,61,66,63,63.33
+SID1425,Yuvan,Baruah,Male,18,Guwahati,Assam,CBSE,Graduate,Tea Planter,1450000,English,Yes,4.6,87,91,85,88,84,85.67
+SID1426,Aarav,Deshpande,Male,17,Mumbai,Maharashtra,CBSE,Graduate,Actor,2150000,English,Yes,5,89,92,88,90,86,88
+SID1427,Vivaan,Garg,Male,16,Delhi,Delhi,ICSE,Postgraduate,Stock Broker,3350000,English,Yes,5.8,93,95,94,95,92,93.67
+SID1428,Aditya,Shinde,Male,18,Bangalore,Karnataka,State Board,High School,Mechanic,800000,Regional,No,3.5,76,86,73,78,74,75
+SID1429,Vihaan,Chauhan,Male,17,Hyderabad,Telangana,CBSE,Doctorate,Veterinarian,2950000,English,Yes,6.2,95,97,96,97,94,95.67
+SID1430,Arjun,Goswami,Male,16,Chennai,Tamil Nadu,CBSE,Graduate,Musician,1550000,English,No,4.5,86,90,84,87,83,84.67
+SID1431,Sai,Sarkar,Male,18,Kolkata,West Bengal,ICSE,Postgraduate,Filmmaker,2850000,English,Yes,5.7,92,94,91,93,90,91.33
+SID1432,Reyansh,Kadam,Male,17,Pune,Maharashtra,State Board,Graduate,Photographer,1250000,English,Yes,5.1,88,91,87,89,85,87
+SID1433,Krishna,Maurya,Male,16,Ahmedabad,Gujarat,CBSE,High School,Carpenter,550000,Hindi,No,3.2,73,84,69,75,71,71.67
+SID1434,Ishaan,Bhandari,Male,17,Jaipur,Rajasthan,CBSE,Graduate,Event Manager,1350000,English,Yes,4.8,87,91,86,88,84,86
+SID1435,Shaurya,Pal,Male,18,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Historian,2250000,English,No,5.4,91,93,90,92,89,90.33
+SID1436,Aanya,Deshpande,Female,17,Mumbai,Maharashtra,CBSE,Graduate,Actor,2150000,English,Yes,5.2,91,93,90,91,88,89.67
+SID1437,Myra,Garg,Female,16,Delhi,Delhi,ICSE,Postgraduate,Stock Broker,3350000,English,Yes,6,94,96,95,96,93,94.67
+SID1438,Saanvi,Shinde,Female,18,Bangalore,Karnataka,State Board,High School,Mechanic,800000,Regional,No,3.7,78,87,75,80,76,77
+SID1439,Anika,Chauhan,Female,17,Hyderabad,Telangana,CBSE,Doctorate,Veterinarian,2950000,English,Yes,6.4,96,97,97,98,95,96.67
+SID1440,Aarohi,Goswami,Female,16,Chennai,Tamil Nadu,CBSE,Graduate,Musician,1550000,English,No,4.7,88,91,86,89,85,86.67
+SID1441,Navya,Sarkar,Female,18,Kolkata,West Bengal,ICSE,Postgraduate,Filmmaker,2850000,English,Yes,5.8,93,94,92,94,91,92.33
+SID1442,Diya,Kadam,Female,17,Pune,Maharashtra,State Board,Graduate,Photographer,1250000,English,Yes,5.2,89,91,88,90,86,88
+SID1443,Pari,Maurya,Female,16,Ahmedabad,Gujarat,CBSE,High School,Carpenter,550000,Hindi,No,3.3,74,84,70,76,72,72.67
+SID1444,Riya,Bhandari,Female,17,Jaipur,Rajasthan,CBSE,Graduate,Event Manager,1350000,English,Yes,4.9,88,91,87,89,85,87
+SID1445,Ishita,Pal,Female,18,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Historian,2250000,English,No,5.5,92,93,91,93,90,91.33
+SID1446,Kabir,Sethi,Male,17,Chandigarh,Punjab,CBSE,Graduate,Restaurateur,1900000,English,Yes,4.5,85,90,82,86,83,83.67
+SID1447,Zoya,Hussain,Female,16,Bhopal,Madhya Pradesh,State Board,Graduate,Social Worker,900000,Hindi,No,3.8,80,88,76,81,78,78.33
+SID1448,Advik,Purohit,Male,18,Surat,Gujarat,CBSE,Postgraduate,Data Scientist,3000000,English,Yes,6,94,96,95,96,93,94.67
+SID1449,Anaya,Jadhav,Female,17,Nagpur,Maharashtra,State Board,High School,Housewife,550000,Regional,No,2.9,71,83,67,73,69,69.67
+SID1450,Aryan,Karthik,Male,16,Visakhapatnam,Andhra Pradesh,State Board,Graduate,Navy Officer,1700000,English,Yes,4.2,83,90,81,84,80,81.67
+SID1451,Kiara,Singhania,Female,17,Indore,Madhya Pradesh,CBSE,Graduate,Fashion Designer,1600000,English,Yes,5.1,90,93,89,91,88,89.33
+SID1452,Veer,Prakash,Male,18,Kochi,Kerala,ICSE,Postgraduate,Pilot,3900000,English,Yes,5.6,92,95,92,93,90,91.67
+SID1453,Zara,Shaikh,Female,16,Coimbatore,Tamil Nadu,CBSE,Doctorate,Dentist,3400000,English,Yes,6.6,97,98,98,97,96,97
+SID1454,Dhruv,Negi,Male,17,Dehradun,Uttarakhand,ICSE,Graduate,Mountaineer,1100000,English,No,3.8,81,89,79,83,80,80.67
+SID1455,Eva,Abdullah,Female,18,Thiruvananthapuram,Kerala,State Board,Postgraduate,Librarian,1400000,English,Yes,4.8,87,91,86,88,84,86
+SID1456,Arnav,Mehra,Male,17,Mumbai,Maharashtra,CBSE,Postgraduate,Investment Banker,4100000,English,Yes,6.4,96,97,97,98,95,96.67
+SID1457,Vivaan,Anand,Male,16,Delhi,Delhi,ICSE,Graduate,Diplomat,3100000,English,Yes,6.1,94,96,95,96,93,94.67
+SID1458,Aditya,Basu,Male,18,Kolkata,West Bengal,State Board,High School,Taxi Driver,600000,Regional,No,2.7,70,82,66,72,68,68.67
+SID1459,Vihaan,Raman,Male,17,Chennai,Tamil Nadu,CBSE,Doctorate,ISRO Scientist,3600000,English,Yes,6.7,98,98,99,100,97,98.67
+SID1460,Arjun,Gowda,Male,16,Bangalore,Karnataka,State Board,Graduate,Software Tester,1100000,English,Yes,4.3,84,90,82,85,81,82.67
+SID1461,Sai,Dixit,Male,18,Pune,Maharashtra,CBSE,Postgraduate,Management Consultant,2900000,English,No,5.3,91,94,90,92,89,90.33
+SID1462,Reyansh,Ojha,Male,17,Lucknow,Uttar Pradesh,ICSE,Graduate,Politician,2300000,English,No,4,82,89,80,84,81,81.67
+SID1463,Krishna,Solanki,Male,16,Ahmedabad,Gujarat,State Board,High School,Plumber,400000,Hindi,No,2.4,67,80,62,69,64,65
+SID1464,Ishaan,Kashyap,Male,17,Patna,Bihar,CBSE,Graduate,Teacher,900000,Hindi,Yes,4.1,83,90,81,83,80,81.33
+SID1465,Shaurya,Tiwari,Male,18,Jaipur,Rajasthan,CBSE,Postgraduate,IAS Officer,2600000,English,Yes,5.9,93,96,94,95,92,93.67
+SID1466,Aanya,Mehra,Female,17,Mumbai,Maharashtra,CBSE,Postgraduate,Investment Banker,4100000,English,Yes,6.6,97,98,98,99,96,97.67
+SID1467,Myra,Anand,Female,16,Delhi,Delhi,ICSE,Graduate,Diplomat,3100000,English,Yes,6.3,95,97,96,97,94,95.67
+SID1468,Saanvi,Basu,Female,18,Kolkata,West Bengal,State Board,High School,Taxi Driver,600000,Regional,No,2.9,72,84,68,74,70,70.67
+SID1469,Anika,Raman,Female,17,Chennai,Tamil Nadu,CBSE,Doctorate,ISRO Scientist,3600000,English,Yes,6.9,99,99,100,100,98,99.33
+SID1470,Aarohi,Gowda,Female,16,Bangalore,Karnataka,State Board,Graduate,Software Tester,1100000,English,Yes,4.5,86,91,84,87,83,84.67
+SID1471,Navya,Dixit,Female,18,Pune,Maharashtra,CBSE,Postgraduate,Management Consultant,2900000,English,No,5.5,92,95,91,93,90,91.33
+SID1472,Diya,Ojha,Female,17,Lucknow,Uttar Pradesh,ICSE,Graduate,Politician,2300000,English,No,4.2,84,90,82,86,83,83.67
+SID1473,Pari,Solanki,Female,16,Ahmedabad,Gujarat,State Board,High School,Plumber,400000,Hindi,No,2.6,69,82,64,71,66,67
+SID1474,Riya,Kashyap,Female,17,Patna,Bihar,CBSE,Graduate,Teacher,900000,Hindi,Yes,4.3,85,91,83,85,82,83.33
+SID1475,Ishita,Tiwari,Female,18,Jaipur,Rajasthan,CBSE,Postgraduate,IAS Officer,2600000,English,Yes,6.1,94,97,95,96,93,94.67
+SID1476,Aarav,Sharma,Male,16,Delhi,Delhi,CBSE,Graduate,Engineer,1350000,English,Yes,4.8,88,92,89,91,86,88.67
+SID1477,Vivaan,Gupta,Male,17,Mumbai,Maharashtra,ICSE,Postgraduate,Doctor,2700000,English,Yes,6.1,95,96,96,97,93,95.33
+SID1478,Aditya,Verma,Male,18,Bangalore,Karnataka,State Board,High School,Business,950000,Regional,No,3.3,78,87,75,81,77,77.67
+SID1479,Vihaan,Singh,Male,16,Hyderabad,Telangana,CBSE,Doctorate,Professor,3200000,English,Yes,6.4,97,98,98,99,96,97.67
+SID1480,Arjun,Patel,Male,17,Chennai,Tamil Nadu,CBSE,Graduate,IT Professional,1650000,English,Yes,5.4,91,94,92,94,89,91.67
+SID1481,Sai,Kumar,Male,18,Kolkata,West Bengal,ICSE,Postgraduate,Lawyer,2150000,English,No,4.4,85,90,83,88,84,85
+SID1482,Reyansh,Yadav,Male,16,Pune,Maharashtra,State Board,Graduate,Architect,1950000,English,Yes,5.2,90,93,90,91,87,89.33
+SID1483,Krishna,Mishra,Male,17,Ahmedabad,Gujarat,CBSE,High School,Government Job,1050000,Hindi,No,3.9,81,89,78,83,79,80
+SID1484,Ishaan,Das,Male,18,Jaipur,Rajasthan,CBSE,Graduate,Banker,1450000,English,Yes,4.6,87,91,86,89,84,86.33
+SID1485,Shaurya,Jain,Male,16,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Scientist,2350000,English,Yes,5.6,92,95,93,94,91,92.67
+SID1486,Aanya,Gupta,Female,17,Delhi,Delhi,CBSE,Graduate,Engineer,1350000,English,Yes,5,90,93,91,92,88,90.33
+SID1487,Myra,Sharma,Female,16,Mumbai,Maharashtra,ICSE,Postgraduate,Doctor,2700000,English,Yes,6.2,96,97,97,98,94,96.33
+SID1488,Saanvi,Verma,Female,18,Bangalore,Karnataka,State Board,High School,Business,950000,Regional,No,3,76,86,72,79,74,75
+SID1489,Anika,Singh,Female,17,Hyderabad,Telangana,CBSE,Doctorate,Professor,3200000,English,Yes,6.3,96,97,97,98,95,96.67
+SID1490,Aarohi,Patel,Female,16,Chennai,Tamil Nadu,CBSE,Graduate,IT Professional,1650000,English,Yes,5.5,92,95,93,95,90,92.67
+SID1491,Navya,Kumar,Female,18,Kolkata,West Bengal,ICSE,Postgraduate,Lawyer,2150000,English,No,4.6,87,91,85,89,86,86.67
+SID1492,Diya,Yadav,Female,17,Pune,Maharashtra,State Board,Graduate,Architect,1950000,English,Yes,5.3,91,94,91,92,88,90.33
+SID1493,Pari,Mishra,Female,16,Ahmedabad,Gujarat,CBSE,High School,Government Job,1050000,Hindi,No,4.1,83,90,80,85,81,82
+SID1494,Riya,Das,Female,17,Jaipur,Rajasthan,CBSE,Graduate,Banker,1450000,English,Yes,4.9,89,92,88,90,86,88
+SID1495,Ishita,Jain,Female,18,Lucknow,Uttar Pradesh,ICSE,Postgraduate,Scientist,2350000,English,Yes,5.9,94,96,95,96,93,94.67
+SID1496,Kabir,Chopra,Male,16,Chandigarh,Punjab,CBSE,Graduate,Businessman,1750000,English,Yes,4.3,83,90,81,84,80,81.67
+SID1497,Zoya,Khan,Female,17,Bhopal,Madhya Pradesh,State Board,Graduate,Teacher,850000,Hindi,No,3.6,79,88,75,81,77,77.67
+SID1498,Advik,Mehta,Male,18,Surat,Gujarat,CBSE,Postgraduate,Manager,2050000,English,Yes,5.4,91,94,89,93,88,89
+SID1499,Anaya,Malhotra,Female,16,Nagpur,Maharashtra,State Board,High School,Homemaker,650000,Regional,No,3.2,74,85,69,76,71,72
+SID1500,Aryan,Reddy,Male,17,Visakhapatnam,Andhra Pradesh,State Board,Graduate,Farmer,750000,Regional,Yes,4,81,89,78,82,79,79.67
+SID1501,Kiara,Bansal,Female,18,Indore,Madhya Pradesh,CBSE,Graduate,Accountant,1150000,English,Yes,4.7,88,92,87,89,85,87

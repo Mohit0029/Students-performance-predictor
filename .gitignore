@@ -1,0 +1,27 @@
+Virtual Environments
+Ignore the virtual environment folder to avoid uploading thousands of library files.
+venv/
+.venv/
+env/
+.env
+
+Python cache and compiled files
+These are temporary files Python creates automatically.
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Jupyter Notebook checkpoints
+Temporary backup files created by Jupyter.
+.ipynb_checkpoints/
+
+IDE and Editor Folders
+Configuration files for editors like VS Code.
+.vscode/
+.idea/
+
+OS-generated files
+System files created by macOS, Windows, etc.
+.DS_Store
+Thumbs.db
